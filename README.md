@@ -1,7 +1,7 @@
 # Sentiment-Analysis-For-AI-Using-Python
 
 ## Project Preview
-Using Hugging Face NPL(Natural Language Processing) Model for sentiment analysis. This involve classification of text or sentenses using the transformer libary in python
+Using Hugging Face NPL(Natural Language Processing) Model for sentiment analysis. This involve classification of text or sentenses using the transformers libary in python
 
 ## How to run the program
 Download the python code and run it locally or on google colab.
